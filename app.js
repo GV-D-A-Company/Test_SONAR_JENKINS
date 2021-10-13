@@ -10,6 +10,10 @@ var commandLineArgs = require("command-line-args");
 var x= 0;
 var y = 0;
 var x= y;
+if(x===y){
+	console.log("ciao");
+}
+var g = undefined;
 
 Mario
 
