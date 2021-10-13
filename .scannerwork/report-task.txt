@@ -1,6 +1,6 @@
-projectKey=bad_code_quality_example
+projectKey=test_bad_code_x
 serverUrl=http://192.168.0.105:9000
 serverVersion=8.9.2.46101
-dashboardUrl=http://192.168.0.105:9000/dashboard?id=bad_code_quality_example
-ceTaskId=AXx4qQn4luKalEjG5uzi
-ceTaskUrl=http://192.168.0.105:9000/api/ce/task?id=AXx4qQn4luKalEjG5uzi
+dashboardUrl=http://192.168.0.105:9000/dashboard?id=test_bad_code_x
+ceTaskId=AXx4_aLmluKalEjG5vIi
+ceTaskUrl=http://192.168.0.105:9000/api/ce/task?id=AXx4_aLmluKalEjG5vIi
